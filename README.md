@@ -15,7 +15,7 @@ UIM-Server is my learning project for Go, currently, it is just a simple fork, b
 
 [Chevereto-Telegram-Bot](https://github.com/M1Screw/Chevereto-Telegram-Bot)
 
-Chevereto-Telegram-Bot is my learning project for Python, originally written with Python 2.7, which now has been patched to be run on the latest Python 3.11 runtime. I plan to refactor and add multi-user support to the bot when Chevereto API v4 is coming out.
+Chevereto-Telegram-Bot is my learning project for Python, originally written with Python 2.7, which now has been patched to be run on the latest Python 3.11 runtime. Due to the Chevereto API system's fundamental design flaw, it can only support uploading images via the guest API.
 
 ### Planned Projects
 
